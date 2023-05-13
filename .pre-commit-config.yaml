@@ -18,24 +18,24 @@ repos:
   rev: v0.0.261
   hooks:
     - id: ruff
-      files: src/
+      files: apply_bot/
       args: [--fix, --exit-non-zero-on-fix]
 -   repo: https://github.com/psf/black
     rev: 23.3.0
     hooks:
     - id: black
-      files: src/
+      files: apply_bot/
       args: [--target-version, py310]
 -   repo: https://github.com/adamchainz/blacken-docs
     rev: 1.13.0
     hooks:
     - id: blacken-docs
-      files: src/
+      files: apply_bot/
       additional_dependencies:
       - black
 -   repo: https://github.com/asottile/pyupgrade
     rev: v3.3.1
     hooks:
     - id: pyupgrade
-      files: src/
+      files: apply_bot/
       args: [--py310-plus]
