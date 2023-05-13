@@ -1,0 +1,146 @@
+{
+    "firstName": "Markus",
+    "lastName": "Iorio",
+    "jobTitle": "Software Engineer",
+    "address": "Brunnenstraße 10, 66663 Merzig",
+    "email": "mbalzert@gmail.com",
+    "phone": "+49 (0) 178 58 14 0 88",
+    "workExperience": [
+        {
+            "position": "Python Software Engineer",
+            "employer": "Key-Systems GmbH",
+            "duration": "09/2022 - 06/2023",
+            "tasks": [
+                "Programming Languages: Python, Rust",
+                "Agile Development Methods: Worked in an agile team using Confluence and Jira",
+                "Version Control: Git",
+                "Databases: Experience with relational databases",
+                "Microservices: Contribution and refactoring of microservices",
+                "Web Framework: Solid knowledge of FastAPI",
+                "Cloud Platform: Basic understanding of AWS",
+                "Containerization: Experience with Docker and Docker Compose",
+                "AI Tools: Proficient use of AI tools such as ChatGPT and Tabnine",
+                "Operating Systems: Proficient in Linux, macOS, and Windows"
+            ]
+        },
+        {
+            "position": "Software Engineer",
+            "employer": "Teach GmbH & Co. KG",
+            "duration": "08/2020 - 07/2022",
+            "tasks": [
+                "Acquisition of comprehensive knowledge and practical experience in application development"
+            ]
+        },
+        {
+            "position": "Technician",
+            "employer": "Mohr Dental GmbH",
+            "duration": "10/2016 - 10/2019",
+            "tasks": [
+                "Installation and maintenance of medical equipment",
+                "Testing of electrical appliances according to DGUV V3",
+                "Customer data management",
+                "Customer service"
+            ]
+        },
+        {
+            "position": "Train Operator",
+            "employer": "Saarbahn GmbH",
+            "duration": "09/2013 - 02/2016",
+            "tasks": [
+                "Operating a low-floor tram of type S1000"
+            ]
+        },
+        {
+            "position": "Technician",
+            "employer": "FairPlay GmbH",
+            "duration": "06/2010 - 09/2013",
+            "tasks": [
+                "Repairing and maintaining gaming machines",
+                "Operating gaming machines"
+            ]
+        },
+        {
+            "position": "Technician",
+            "employer": "Automaten Rupp GmbH",
+            "duration": "03/2010 - 06/2010",
+            "tasks": [
+                "Repairing, maintaining, and filling coffee machines",
+                "Operating coffee machines"
+            ]
+        },
+        {
+            "position": "Technician",
+            "employer": "Automaten Ranft GmbH",
+            "duration": "04/2008 - 10/2009",
+            "tasks": [
+                "Repairing, maintaining, and filling gaming machines",
+                "Operating gaming machines",
+                "Bookkeeping and invoice processing",
+                "Customer service"
+            ]
+        },
+        {
+            "position": "Sales",
+            "employer": "Portable Systems Center GmbH",
+            "duration": "01/2007 - 01/2008",
+            "tasks": [
+                "Sales and distribution of notebooks",
+                "Customer service"
+            ]
+        },
+        {
+            "position": "Service",
+            "employer": "Aol Deutschland",
+            "duration": "09/2005 - 08/2006",
+            "tasks": [
+                "Technical and commercial support"
+            ]
+        },
+        {
+            "position": "Associate Game Master",
+            "employer": "Blizzard Entertainment, Inc.",
+            "duration": "01/2005 - 09/2005",
+            "tasks": [
+                "Technical and commercial support"
+            ]
+        },
+        {
+            "position": "Service",
+            "employer": "Aol Deutschland",
+            "duration": "07/2004 - 12/2004",
+            "tasks": [
+                "Technical and commercial support"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Software Engineer",
+            "institution": "Teach GmbH & Co. KG",
+            "duration": "08/2020 - 07/2022",
+            "completion": "Software Engineer"
+        },
+        {
+            "degree": "Training as IT System Electronics Technician",
+            "institution": "Deutsche Steinkohle AG",
+            "duration": "09/1999 - 08/2002",
+            "completion": "IT System Electronics Technician"
+        }
+    ],
+    "qualifications": [
+        {
+            "qualification": "Secondary School Leaving Certificate",
+            "school": "Hauptschule Völklingen",
+            "duration": "09/1991 - 07/1995"
+        }
+    ],
+    "languages": {
+        "German": "Native",
+        "English": "Fluent",
+        "French": "Basic",
+        "Italian": "Basic"
+    },
+    "miscellaneous": {
+        "driverLicense": "Class B"
+    }
+}

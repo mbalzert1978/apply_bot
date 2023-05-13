@@ -1,0 +1,61 @@
+[tool.poetry]
+name = "apply-bot"
+version = "0.1.0"
+description = ""
+authors = ["mbalzert1978 <teilen-01-koralle@icloud.com>"]
+readme = "README.md"
+packages = [{ include = "apply_bot" }]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.0.267"
+mypy = "^1.3.0"
+pre-commit = "^3.3.1"
+black = "^23.3.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff]
+select = [
+    "ANN",
+    "ARG",
+    "B",
+    "BLE",
+    "COM",
+    "DTZ",
+    "E",
+    "EM",
+    "ERA",
+    "EXE",
+    "F",
+    "FBT",
+    "G",
+    "I",
+    "ICN",
+    "INP",
+    "ISC",
+    "N",
+    "PD",
+    "PGH",
+    "PIE",
+    "PL",
+    "PT",
+    "PTH",
+    "Q",
+    "RET",
+    "RUF",
+    "S",
+    "SIM",
+    "TCH",
+    "TID",
+    "TRY",
+    "UP",
+    "W",
+    "YTT",
+]
+ignore = ["ANN101", "ANN102"]
